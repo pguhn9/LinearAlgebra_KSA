@@ -1,1 +1,1 @@
-# LinerAlgebra_KSA
+# LinearAlgebra_KSA
